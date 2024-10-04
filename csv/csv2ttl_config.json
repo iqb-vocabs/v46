@@ -1,0 +1,66 @@
+{
+  "id": "2004Physik",
+  "title": [
+    {
+      "lang": "de",
+      "value": "Bildungsstandards im Fach Physik MSA 2004"
+    }
+  ],
+  "csv_delimiter": ",",
+  "base": "https://w3id.org/iqb/v46",
+  "outDir": "./",
+  "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+  "vocabularies": [
+    {
+      "id": "b1",
+      "title": [
+        {
+          "lang": "de",
+          "value": "Standards für die Kompetenzbereiche des Faches Physik"
+        }
+      ],
+      "filenameSource": "b1_Bildungsstandards_Kompetenzbereiche.csv",
+      "filenameTarget": "b1_Bildungsstandards_Kompetenzbereiche.ttl",
+      "description": [
+        {
+          "lang": "de",
+          "value": "\"\"Im Folgenden werden für die vier Kompetenzbereiche Regelstandards formuliert, die von Schülerinnen und Schülern mit Erreichen des Mittleren Schulabschlusses zu erwerben sind. Eine Zuordnung konkreter Inhalte erfolgt exemplarisch in den Aufgabenbeispielen. Die Standards sind nach den im Kapitel 2 beschriebenen Kompetenzbereichen geordnet.\"\""
+        }
+      ]
+    },
+    {
+      "id": "k1",
+      "title": [
+        {
+          "lang": "de",
+          "value": "Kompetenzbereiche des Faches Physik"
+        }
+      ],
+      "filenameSource": "k1_Kompetenzbereiche.csv",
+      "filenameTarget": "k1_Kompetenzbereiche.ttl",
+      "description": [
+        {
+          "lang": "de",
+          "value": "\"\"Mit dem Erwerb des Mittleren Schulabschlusses verfügen die Schülerinnen und Schüler über naturwissenschaftliche Kompetenzen im Allgemeinen sowie physikalische Kompetenzen im Besonderen. Kompetenzen sind nach Weinert „die bei Individuen verfügbaren oder durch sie erlernbaren kognitiven Fähigkeiten und Fertigkeiten, um bestimmte Probleme zu lösen, sowie die damit verbundenen motivationalen, volitionalen und sozialen Bereitschaften und Fähigkeiten, um die Problemlösungen in variablen Situationen erfolgreich und verantwortungsvoll nutzen zu können“.\n\nDie in vier Kompetenzbereichen festgelegten Standards beschreiben die notwendige physikalische Grundbildung. Die im Kompetenzbereich Fachwissen vorgenommene vertikale Vernetzung durch die übergeordneten vier Basiskonzepte Materie, Wechselwirkung, System und Energie soll den Schülerinnen und Schülern kumulatives Lernen erleichtern. Zugleich wird auf Basis des Fachwissens der Kompetenzerwerb in den Bereichen Erkenntnisgewinnung, Kommunikation und Bewerten ermöglicht und das Fachwissen in gesellschaftlichen und alltagsrelevanten Kontexten angewandt. Darüber hinaus bieten die Kompetenzen Anknüpfungspunkte für fachübergreifendes und fächerverbindendes Arbeiten.\"\""
+        }
+      ]
+    },
+    {
+      "id": "a1",
+      "title": [
+        {
+          "lang": "de",
+          "value": "Fachspezifische Beschreibung der Anforderungsbereiche"
+        }
+      ],
+      "filenameSource": "a1_Anforderungsbereiche.csv",
+      "filenameTarget": "a1_Anforderungsbereiche.ttl",
+      "description": [
+        {
+          "lang": "de",
+          "value": "Da noch keine empirisch abgesicherten Kompetenzstufenmodelle vorliegen, wird zunächst zur Einschätzung der in den Aufgabenbeispielen gestellten Anforderungen auf drei Bereiche zurückgegriffen, die sich in ihrer Beschreibung an den Einheitlichen Prüfungsanforderungen in der Abiturprüfung (EPA) orientieren. Dabei gilt, dass die Anforderungsbereiche nicht Ausprägungen oder Niveaustufen einer Kompetenz sind. Es handelt sich vielmehr um Merkmale von Aufgaben, die verschiedene Schwierigkeitsgrade innerhalb ein und derselben Kompetenz abbilden können. Die nachfolgenden Formulierungen zeigen deshalb zunächst charakterisierende Kriterien zur Einordnung in einen der Anforderungsbereiche auf.e"
+        }
+      ]
+    }
+  ]
+}
