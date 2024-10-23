@@ -172,8 +172,8 @@ n1:h3x
 	skos:inScheme n0:;
 	skos:notation "K ";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Bewertung"@de; 
-	skos:definition """Physikalische Sachverhalte in verschiedenen Kontexten erkennen und bewerten.\n\nDie Schülerinnen und Schüler ..."""@de;
+	skos:prefLabel "Kommunikation"@de; 
+	skos:definition """Informationen sach- und fachbezogen erschließen und austauschen. \n\nDie Schülerinnen und Schüler ..."""@de;
 	skos:narrower 
 		n1:c3g,
 		n1:d9y,
@@ -221,7 +221,7 @@ n1:h4r
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Bildungsstandards im Fach Physik MSA 2004 - Standards für die Kompetenzbereiche des Faches Physik"@de;
+	dct:title "Bildungsstandards Physik MSA 2004 - Standards (Kompetenzen) "@de;
 	dct:description """Im Folgenden werden für die vier Kompetenzbereiche Regelstandards formuliert, die von Schülerinnen und Schülern mit Erreichen des Mittleren Schulabschlusses zu erwerben sind. Eine Zuordnung konkreter Inhalte erfolgt exemplarisch in den Aufgabenbeispielen. Die Standards sind nach den im Kapitel 2 beschriebenen Kompetenzbereichen geordnet."""@de;
 	skos:hasTopConcept
 		n1:p5c,

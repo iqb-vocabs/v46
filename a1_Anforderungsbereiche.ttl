@@ -124,7 +124,7 @@ n1:c3q
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Bildungsstandards im Fach Physik MSA 2004 - Fachspezifische Beschreibung der Anforderungsbereiche"@de;
+	dct:title "Bildungsstandards Physik MSA 2004 - Anforderungsbereiche"@de;
 	dct:description "Da noch keine empirisch abgesicherten Kompetenzstufenmodelle vorliegen, wird zunächst zur Einschätzung der in den Aufgabenbeispielen gestellten Anforderungen auf drei Bereiche zurückgegriffen, die sich in ihrer Beschreibung an den Einheitlichen Prüfungsanforderungen in der Abiturprüfung (EPA) orientieren. Dabei gilt, dass die Anforderungsbereiche nicht Ausprägungen oder Niveaustufen einer Kompetenz sind. Es handelt sich vielmehr um Merkmale von Aufgaben, die verschiedene Schwierigkeitsgrade innerhalb ein und derselben Kompetenz abbilden können. Die nachfolgenden Formulierungen zeigen deshalb zunächst charakterisierende Kriterien zur Einordnung in einen der Anforderungsbereiche auf.e"@de;
 	skos:hasTopConcept
 		n1:e7z,
