@@ -3,7 +3,7 @@
   "title": [
     {
       "lang": "de",
-      "value": "Bildungsstandards im Fach Physik MSA 2004"
+      "value": "Bildungsstandards Physik MSA 2004"
     }
   ],
   "csv_delimiter": ",",
@@ -16,7 +16,7 @@
       "title": [
         {
           "lang": "de",
-          "value": "Standards für die Kompetenzbereiche des Faches Physik"
+          "value": "Standards (Kompetenzen) "
         }
       ],
       "filenameSource": "b1_Bildungsstandards_Kompetenzbereiche.csv",
@@ -50,7 +50,7 @@
       "title": [
         {
           "lang": "de",
-          "value": "Fachspezifische Beschreibung der Anforderungsbereiche"
+          "value": "Anforderungsbereiche"
         }
       ],
       "filenameSource": "a1_Anforderungsbereiche.csv",
